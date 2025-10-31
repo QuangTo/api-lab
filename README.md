@@ -14,5 +14,5 @@ npm start
 
 Unit test with Vitest
 ```
-npm test:unit
+npm run test:unit
 ```
