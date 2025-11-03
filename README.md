@@ -11,6 +11,9 @@ Start express servers
 ```
 npm start
 ```
+```
+http://localhost:3000/users/1
+```
 
 Unit test with Vitest
 ```
