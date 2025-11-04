@@ -6,7 +6,7 @@
     "esModuleInterop": true,
     "rootDir": "src",
     "strict": true,
-    "skipLibCheck": true,
+    "skipLibCheck": true
   },
   "include": ["src"]
 }

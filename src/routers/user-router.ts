@@ -1,6 +1,6 @@
 import { Router } from "express";
-import { UserService } from "../services/user.service";
-import { InMemoryUserRepository } from "../repositories/inMemoryUser.repo";
+import { UserService } from "../services/user-service";
+import { InMemoryUserRepository } from "../repositories/inMemoryUser-repo";
 
 const router = Router();
 const userService = new UserService(new InMemoryUserRepository());
